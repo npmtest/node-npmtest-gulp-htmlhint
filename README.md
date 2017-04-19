@@ -1,4 +1,7 @@
-# test coverage for  [gulp-htmlhint (v0.3.1)](https://github.com/bezoerb/gulp-htmlhint)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-htmlhint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-htmlhint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-htmlhint.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-htmlhint)
+# npmtest-gulp-htmlhint
+
+#### test coverage for  [gulp-htmlhint (v0.3.1)](https://github.com/bezoerb/gulp-htmlhint)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-htmlhint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-htmlhint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-htmlhint.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-htmlhint)
+
 #### A plugin for Gulp
 
 [![NPM](https://nodei.co/npm/gulp-htmlhint.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-htmlhint)
